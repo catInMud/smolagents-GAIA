@@ -1,0 +1,1 @@
+../../src/smolagents/cli.py
